@@ -234,3 +234,13 @@ http://ionicframework.com/docs/theming/ */
     --ion-card-background: #1e1e1e;
   }
 }
+
+:root {
+  --background-color: #ffffff; /* Cor de fundo clara (tema claro) */
+  /* Outras variáveis de tema claro */
+}
+
+body.dark {
+  --background-color: #000000; /* Cor de fundo preta (tema escuro) */
+  /* Outras variáveis de tema escuro */
+}
