@@ -1,0 +1,8 @@
+{
+  "name": "vueee-pb",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite",
+  "id": "cbdc5396"
+}
