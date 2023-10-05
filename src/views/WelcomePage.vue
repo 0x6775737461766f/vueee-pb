@@ -9,7 +9,7 @@
         <!-- Por exemplo: <img src="caminho-para-seu-icone" alt="Ícone" /> -->
       </div>
       <div class="continue-button">
-        <ion-button class="custom-button">Continue</ion-button>
+        <ion-button class="custom-button" href="/auth">Continue</ion-button>
         <p class="terms-text">You agree to our Terms of Use and Privacy Policy by continuing</p>
       </div>
     </div>
@@ -63,10 +63,6 @@
   .app-name h1 {
     margin-bottom: 20px;
     font-size: 6vh;
-  }
-  
-  .icon {
-    /* Estilos para o ícone */
   }
   
   .continue-button {
