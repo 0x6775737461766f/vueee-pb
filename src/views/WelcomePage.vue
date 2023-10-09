@@ -10,7 +10,7 @@
       </div>
       <div class="continue-button">
         <ion-button class="custom-button" href="/auth">Continue</ion-button>
-        <p class="terms-text">You agree to our Terms of Use and Privacy Policy by continuing</p>
+        <p class="terms-text">You agree to our <u>Terms of Use</u> and <u>Privacy Policy</u> by continuing</p>
       </div>
     </div>
   </template>
